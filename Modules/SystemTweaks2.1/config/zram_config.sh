@@ -1,0 +1,5 @@
+#!/system/bin/sh
+
+ZRAM_SIZE_MB=8192
+COMP_ALGORITHM=lz4
+SWAPPINESS=100
