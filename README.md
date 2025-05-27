@@ -6,6 +6,7 @@ These tweaks make some changes to system.prop that do:
 - **Tweaks GPU/CPU**
 - **Network Tweaks**
 - **PowerSaver**
+- **Render Tweaks**
 - **And many other tweaks**
 # IMPORTANT
 - **Requires Magisk:** 20.4 and above Also Android 9 and above
