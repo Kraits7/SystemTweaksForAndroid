@@ -2,7 +2,10 @@
 These tweaks should help revive an old/weak phone and give it some performance and smoothness without losing battery life and heating
 # Features
 These tweaks make some changes to system.prop that do:
-- **Enable ZRAM** (which allows apps to stay in memory longer) (ZRAM will be in version 2.0)
+- **Enable ZRAM**
+- **Tweaks GPU/CPU**
+- **Network Tweaks**
+- **PowerSaver**
 - **And many other tweaks**
 # IMPORTANT
 - **Requires Magisk:** 20.4 and above Also Android 9 and above
