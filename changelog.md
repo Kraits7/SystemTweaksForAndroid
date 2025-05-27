@@ -1,3 +1,3 @@
-# 2.0
+# Beta 1.3
 
-- Test
+- Deleted ZRAM for better stable
