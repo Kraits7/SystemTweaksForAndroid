@@ -1,0 +1,2 @@
+# SystemTweaksForAndroid
+MODDIR=${0%/*}
