@@ -9,5 +9,5 @@ These tweaks make some changes to system.prop that do:
 - **Render Tweaks**
 - **And many other tweaks**
 # IMPORTANT
-- **Requires Magisk:** 20.4 and above Also Android 9 and above
+- **Requires Magisk:** 20.4
 - **Requires Android:** 9 And above
