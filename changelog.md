@@ -1,3 +1,3 @@
-# Version 2.1
+# Version 3.0
 # ChangeLog:
-- **Deleted SkiaGL**
+- **Speeding up device startup**
