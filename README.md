@@ -10,4 +10,4 @@ These tweaks make some changes to system.prop that do:
 - **And many other tweaks**
 # IMPORTANT
 - **Requires Magisk:** 20.4
-- **Requires Android:** 9 And above
+- **Requires Android:** 10 And above
